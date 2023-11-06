@@ -70,17 +70,17 @@
       </bt:Images>
       <bt:Urls>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue=""/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://github.com/s054zc/komento/taskpane.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://github.com/s054zc/komento/app.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="GetStarted.Title" DefaultValue="Get started with the Hello world add-in!"/>
-        <bt:String id="CommandsGroup.Label" DefaultValue="Contoso Add-in"/>
-        <bt:String id="TaskpaneButton.Label" DefaultValue="Hello world"/>
-        <bt:String id="TaskpaneButton.SupertipTitle" DefaultValue="Hello world"/>
+        <bt:String id="GetStarted.Title" DefaultValue="Get started with the Komento add-in!"/>
+        <bt:String id="CommandsGroup.Label" DefaultValue="Komento Add-in"/>
+        <bt:String id="TaskpaneButton.Label" DefaultValue="Komento"/>
+        <bt:String id="TaskpaneButton.SupertipTitle" DefaultValue="Komento"/>
       </bt:ShortStrings>
       <bt:LongStrings>
-        <bt:String id="GetStarted.Description" DefaultValue="Your sample add-in loaded succesfully. Go to the HOME tab and click the 'Hello world' button to get started."/>
-        <bt:String id="TaskpaneButton.SupertipText" DefaultValue="Open the Hello world add-in"/>
+        <bt:String id="GetStarted.Description" DefaultValue="1."/>
+        <bt:String id="TaskpaneButton.SupertipText" DefaultValue="2."/>
       </bt:LongStrings>
     </Resources>
   </VersionOverrides>
